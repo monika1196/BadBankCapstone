@@ -1,4 +1,4 @@
-# BadBankCapstone
+## BadBankCapstone
 Full-Stack Bad Bank Capstone Project for the MIT xPRO Development.
 
 ### Description/Motivation
